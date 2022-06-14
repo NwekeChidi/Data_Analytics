@@ -1,0 +1,6 @@
+List of refrences:
+- https:developers.themoviedb.org/3/discover/movie-discover
+- udacity lesson codes
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+- https://www.codegrepper.com/code-examples/python/df.query+multiple+conditions
+- https://www.w3schools.com/python/matplotlib_pie_charts.asp
